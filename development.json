@@ -1,0 +1,32 @@
+{
+    "PORT": 7005,
+    "DB_CONN_STRING": "mongodb+srv://math-zen-x:kmTCnv9vm1Ak42M3@math-zen-x.lprsujc.mongodb.net/mathzenx",
+
+    "API_KEY_ENC": "A9C4F2E18D6B7035EFA19C8B2D4E5601",
+    "API_KEY_DEC": "7E3B91A4D0C6F852B1E49D6A5C8F2037",
+    "API_ENCRYPT_IV_KEY": "4F9C2A7E6B1D8035",
+    "API_DECRYPT_IV_KEY": "D8A1F6C93E4B2075",
+
+    "REDIS_HOST": "127.0.0.1",  
+    "REDIS_PORT": "6379",
+    "REDIS_PREFIX" : "dev_",
+
+    "JWT_ACCESS_SECRET": "4d9f2a7c6b1e8035f9a4d7c2e6b8a1f09c5e3d7b2a6f1c8e4d9b0a5f7c3e2d8a1",
+    "JWT_REFRESH_SECRET": "f6c9b3d0a7e52c1f8d4b9a6e3f5c2d0b7e1a49c8f6d5b3a2e70918c4f5d6b2a",
+
+    "JWT_ACCESS_TIME": "365d",
+    "JWT_REFRESH_TIME": "3650d",
+
+    "OUTER_KEY_USER": "A91F3C6D8E204B7F9D12AA44C8E19F02",
+    "OUTER_KEY_PAYLOAD": "7C2E9A4F1D6B8830E5A6C91B24D7FA10",
+    "QUIZE_ALL_USER" : "quizeAllDriver",
+
+    "SMTP_HOST": "smtp.gmail.com",
+    "SMTP_PORT": 587,
+    "SMTP_SECURE": false,
+    "SMTP_USER": "",
+    "SMTP_PASSWORD": "",
+    "SMTP_FROM_EMAIL": "",
+    "SMTP_FROM_NAME": "Your App Name"
+
+}
